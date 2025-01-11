@@ -1,0 +1,95 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Wireless Bluetooth Headphones",
+        "description": "Noise-cancelling over-ear headphones with 30 hours of battery life.",
+        "price": 59.99,
+        "brand": "Apple",
+        "manufacturer": "SoundX",
+        "image": "https://png.pngtree.com/png-vector/20240530/ourmid/pngtree-pink-bluetooth-headphones-image-png-image_12553648.png"
+      },
+      {
+        "id": 2,
+        "title": "Smartphone",
+        "description": "6.5-inch display, 128GB storage, and a 5000mAh battery.",
+        "price": 499.99,
+        "brand": "Apple",
+        "manufacturer": "TechMax",
+        "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202412/19/AceLeaXtntKw1AZf.png"
+      },
+      {
+        "id": 3,
+        "title": "4K Ultra HD Smart TV",
+        "description": "50-inch smart TV with HDR10 and built-in streaming apps.",
+        "price": 349.99,
+        "brand": "Samsung",
+        "manufacturer": "VisionPro",
+        "image": "https://www.tecq.in/wp-content/uploads/2021/10/New-Project-26.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Gaming Laptop",
+        "description": "15.6-inch laptop with Intel i7 processor and NVIDIA GTX 1660Ti graphics.",
+        "price": 1099.99,
+        "brand": "Apple",
+        "manufacturer": "GamerCore",
+        "image": "https://m.media-amazon.com/images/I/61DadtLsm2L.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Stainless Steel Water Bottle",
+        "description": "500ml reusable water bottle, keeps drinks hot or cold for hours.",
+        "price": 19.99,
+        "brand": "Sony",
+        "manufacturer": "EcoSip",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2022/2/YH/MI/HX/132793486/whatsapp-image-2022-02-21-at-19-27-45.jpeg"
+      },
+      {
+        "id": 6,
+        "title": "Wireless Mouse",
+        "description": "Ergonomic wireless mouse with adjustable DPI and silent clicks.",
+        "price": 15.99,
+        "brand": "Samsung",
+        "manufacturer": "ClickEase",
+        "image": "https://www.primeabgb.com/wp-content/uploads/2023/10/XPG-ALPHA-Wireless-Black-w-RGB-Omron-Switches-Gaming-Mouse-ALPHAWL-BKCWW.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Portable Power Bank",
+        "description": "10000mAh power bank with dual USB outputs for charging multiple devices.",
+        "price": 24.99,
+        "brand": "Apple",
+        "manufacturer": "ChargeUp",
+        "image": "https://deq64r0ss2hgl.cloudfront.net/images/product/evm-enmag-15-10000mah-powerbank-60238120998438.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Electric Toothbrush",
+        "description": "Rechargeable toothbrush with 5 cleaning modes and smart timer.",
+        "price": 39.99,
+        "brand": "Sony",
+        "manufacturer": "SmileCare",
+        "image": "https://images-cdn.ubuy.ae/669448183b3f7d13e34a1e2f-oral-b-pro-1000-electric-toothbrush-with.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Fitness Tracker",
+        "description": "Tracks steps, calories burned, and sleep patterns with a vibrant touchscreen.",
+        "price": 29.99,
+        "brand": "Apple",
+        "manufacturer": "FitLife",
+        "image": "hhttps://www.worldofwheelz.in/uploads/media/thumb/5.1-H603-Blue.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Smart Home Speaker",
+        "description": "Voice-controlled smart speaker with music streaming and home automation support.",
+        "price": 89.99,
+        "brand": "Samsung",
+        "manufacturer": "HomeConnect",
+        "image": "https://m.media-amazon.com/images/I/61U-wg02ItL.jpg"
+      }
+    ]
+  }
+  
