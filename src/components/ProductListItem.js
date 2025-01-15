@@ -4,9 +4,8 @@ import { Link } from 'react-router-dom';
 function ProductListItem({ product}) {
 
     const {title, description, image, price, brand, manufacturer} = product;
-
   return (
-    <Link to={`/products/${product.id}`} state={{product}}>
+    <Link to={`/products/${product.id}`} state={{product}} className="text-decoration-none">
     <div className="card mb-4 shadow-sm">
       <div className="row g-0">
         <div className="col-md-3">
@@ -14,7 +13,7 @@ function ProductListItem({ product}) {
             src={image}
             alt={title}
             className="img-fluid rounded-start"
-            style={{ objectFit: 'cover', height: '30vh' }}
+            style={{ objectFit: 'cover', height: '100%' }}
           />
         </div>
         <div className="col-md-9">
@@ -23,6 +22,9 @@ function ProductListItem({ product}) {
             <p className="card-text">{description}</p>
             <p className="card-text">
               <strong>Price:</strong> ${price}
+            </p>
+            <p className="card-text">
+              <strong>Brand:</strong> {brand}
             </p>
             <p className="card-text">
               <strong>Manufacturer:</strong> {manufacturer}

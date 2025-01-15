@@ -1,10 +1,11 @@
 import React from 'react'
+import ProductReviews from './ProductReviews';
 
 function Product({product}) {
     const {title, description, image, price, brand, manufacturer} = product;
 
   return (
-    <div className="col-md-8">
+    <div className="col-md-6">
     <div className="card shadow-sm">
       <img
         src={image}
@@ -22,6 +23,8 @@ function Product({product}) {
         <button className="btn btn-success w-100 mt-3">Add to Cart</button>
       </div>
     </div>
+
+    <ProductReviews/>
   </div>
 
   )

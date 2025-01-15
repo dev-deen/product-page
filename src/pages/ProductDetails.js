@@ -10,11 +10,10 @@ function ProductDetails() {
     const {product} = location.state || {};
 
   return (
-    <div className="container-fluid">
+    <div className="container-fluid m-4">
       <div className="row">
         <Product product={product}/>
-        <RelatedProducts/>
-        <ProductReviews/>
+        <RelatedProducts product={product}/>
     </div>
     </div>
   )
